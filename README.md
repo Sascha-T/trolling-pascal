@@ -1,3 +1,8 @@
+# DO NOT TAKE THIS SERIOUSLY
+this is an "anti-code golfed" solution to a funny uni problem for a uni I'm not even in, hi pascal btw
+## we love jit we love jit we love jit
+
+
 # Assignment 1 - Hangman game
 
 Hangman is a guessing game for two players. The first player thinks of a word and the second player tries to guess it by consecutively suggesting letters with only a fixed amount of wrong guesses allowed.
